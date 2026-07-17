@@ -1,3 +1,4 @@
+---
 title: Human Body Structure Analysis with PCA and EFA 
 description: Multivariate analysis of human body measurement data using Principal Component Analysis (PCA) and Exploratory Factor Analysis (EFA) to uncover hidden structures related to body fat, body size, and physical characteristics.
 category: Data Science
@@ -25,3 +26,4 @@ image: https://storage.googleapis.com/kaggle-datasets-images/1408058/2332711/186
 featured: true  
 stars: 0
 
+---
